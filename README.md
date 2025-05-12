@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tola</h1>
 <h3 align="center">A passionate backend developer from Cambodia</h3>
 
-- 🌱 I’m currently learning **Spring Microservice**
+- 🌱 I’m currently **Software Engineering**
 
 - 📫 How to reach me **soy.tola9999@gmail.com**
 
