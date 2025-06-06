@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tola</h1>
 <h3 align="center">A passionate backend developer from Cambodia</h3>
 
-- 🌱 I’m currently **Software Engineering**
+- 🌱 I’m currently **Software Engineering at COOCON CAMBODIA CENTER**
 
 - 📫 How to reach me **soy.tola9999@gmail.com**
 
